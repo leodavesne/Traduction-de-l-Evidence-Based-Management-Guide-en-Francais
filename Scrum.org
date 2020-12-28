@@ -1,0 +1,15 @@
+Scrum.org
+
+Le guide du Management fondé sur les faits
+Mesurer la valeur pour rendre les améliorations et l’Agilité possibles
+
+Septembre 2020
+
+# Objectif du guide EBM
+
+Le Management fondé sur les faits (Evidence-Based Management (EBM)) est une approche empirique qui aide les organisations à continuellement améliorer l’impact sur leurs utilisateurs, leurs capacités organisationnelles et leurs résultats d’affaires dans des conditions d’incertitude. C’est un cadre de travail pour que les organisations améliorent leur capacité à livrer de la valeur dans un monde incertain, à la recherche d’un chemin vers des objectifs stratégiques. En utilisant intentionnellement des expérimentations et des faits (mesures), l’EBM permet aux organisations d’améliorer systématiquement leurs performances dans le temps et d’ajuster leurs objectifs en se basant sur de meilleures informations.
+
+En mesurant la situation actuelle, en fixant des objectifs de performance, en lançant de petites expérimentations qui peuvent être testées rapidement, en mesurant les effets de l’expérimentation et en inspectant et en adaptant les objectifs et les prochaines étapes, l’EBM aide les organisations à prendre en compte les meilleures preuves disponibles pour les aider à prendre des décisions pour s’améliorer.
+
+Ce guide définit l’EBM, ses concepts et ses applications.
+
