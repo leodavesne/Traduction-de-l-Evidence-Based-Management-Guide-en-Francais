@@ -13,3 +13,15 @@ En mesurant la situation actuelle, en fixant des objectifs de performance, en la
 
 Ce guide définit l’EBM, ses concepts et ses applications.
 
+# L’EBM aide les organisations à progresser vers leurs objectifs dans un monde complexe en utilisant l’empirisme
+
+Les problèmes complexes dépassent les solutions simples et demandent aux organisations de progresser vers leurs objectifs via une succession de petits pas, d’inspecter les résultats à chaque pas, et d’adapter leurs actions suivantes en se basant sur le feedback reçu (voir la Figure 1).  
+
+Ce modèle comporte plusieurs éléments clés :
+	Un *Objectif Stratégique*, qui est quelque chose d’important que l’organisation voudrait réaliser. Cet objectif est si vaste et si lointain que beaucoup d’incertitude viendra en perturber la réalisation en cours de route, ce qui implique que l’organisation devra utiliser l’empirisme. Parce que l’*Objectif Stratégique* est ambitieux et que le chemin pour y arriver est incertain, l’organisation a besoin d’une série de cibles concrètes, comme 
+	Des *Objectifs Intermédiaires*, des réalisations qui indiqueront que l’organisation est sur la voie de son *Objectif Stratégique*. Le chemin vers l’*Objectif Intermédiaire* est souvent quelque peu incertain, mais pas complètement inconnu.
+	Des *Objectifs Opérationnels Immédiats*, des objectifs critiques à court terme vers lesquels une équipe ou un groupe d’équipes va travailler pour progresser vers les *Objectifs Intermédiaires*.
+	Un *État de Départ*, qui est où se situe l’organisation par rapport à l’*Objectif Stratégique* quand elle commence le voyage.
+	Un *État Courant*, qui est où se trouve l’organisation par rapport à l’*Objectif Stratégique* à l’heure actuelle.
+
+Dans le but de progresser vers l’*Objectif Stratégique*, les organisations mènent des expérimentations qui consistent à former des hypothèses qui sont destinées à faire avancer l’organisation vers leur Objectif Intermédiaire du moment. Alors qu’elles mènent ces expérimentations et rassemblent des informations, elles utilisent les données collectées pour évaluer leurs objectifs et déterminer les prochaines étapes pour progresser vers ces objectifs.
