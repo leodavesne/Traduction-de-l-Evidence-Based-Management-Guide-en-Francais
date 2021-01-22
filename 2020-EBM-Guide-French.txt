@@ -58,3 +58,31 @@ Chaque ZVC se concentre sur un aspect différent de la valeur soit sur la capaci
 
 Des exemples de Métriques de Valeur Clés (MVCs) pour chaque ZVC sont décrites dans l’appendice.
 
+# Annexe :  Exemple de Mesures de Valeur Clés
+
+Afin d’encourager l’adaptabilité, l’EBM ne définit aucunes mesures de valeur clés spécifique. Les KVMs répertoriés ci-dessous sont présentés pour montrer les types de mesures qui pourraient aider une organisation à comprendre son état actuel, son état futur souhaité, ainsi que les facteurs qui affectent sa capacité à s’améliorer.
+
+Valeur actuelle (CV)
+
+KVM	Mesure
+
+Revenu par employé
+
+Le ratio (chiffre d'affaires brut / nombre d'employés) est un indicateur concurrentiel clé au sein d'une industrie. Cela varie significativement selon le secteur.
+
+Ratio coût produit
+
+Total des dépenses et des coûts pour le(s) produit(s) / système(s) mesuré(s), y compris les coûts d’exploitation par rapport aux revenus.
+
+Satisfaction des employés
+
+Une certaine forme d'analyse des sentiments pour évaluer l'engagement, l'énergie et l'enthousiasme des employés
+
+Satisfaction du client
+
+Une certaine forme d'analyse des sentiments pour aider à évaluer l'engagement et le bonheur du client avec le produit
+
+Index d'utilisation des clients
+
+Mesure de l'utilisation, par fonctionnalité, pour aider à déterminer dans quelle mesure les clients trouvent le produit utile et si l'utilisation réelle répond aux attentes concernant le temps que les utilisateurs devraient consacrer à une fonctionnalité.
+
