@@ -25,3 +25,36 @@ Ce modèle comporte plusieurs éléments clés :
 	Un *État Courant*, qui est où se trouve l’organisation par rapport à l’*Objectif Stratégique* à l’heure actuelle.
 
 Dans le but de progresser vers l’*Objectif Stratégique*, les organisations mènent des expérimentations qui consistent à former des hypothèses qui sont destinées à faire avancer l’organisation vers leur Objectif Intermédiaire du moment. Alors qu’elles mènent ces expérimentations et rassemblent des informations, elles utilisent les données collectées pour évaluer leurs objectifs et déterminer les prochaines étapes pour progresser vers ces objectifs.
+
+Schéma n°1 : Atteindre des objectifs stratégiques nécessite de l’expérimentation, de l’inspection et de l’adaptation
+
+Fixer des objectifs
+
+Lorsqu’elles fixent des objectifs, les organisations doivent définir des métriques précises qui indiqueront que l’objectif est atteint. Les objectifs, les métriques et les expérimentations se doivent d’être transparents pour inciter à l’alignement organisationnel.
+
+	Prenons par exemple le cas de la réponse à une maladie infectieuse :
+	* L’Objectif Stratégique est d’éradiquer les effets de la maladie en mesurant le nombre de personnes qui tombent malade et qui en souffrent gravement. Les métriques sont importantes : dans cet exemple, l’objectif est centré sur les effets de la maladie et pas sur les moyens d’avoir l’impact souhaité. Par exemple, l’objectif n’est pas de vacciner un certain pourcentage de la population ; ça peut être une activité nécessaire pour atteindre l’Objectif Stratégique, mais ce n’est pas l’Objectif Stratégique.
+	* Un exemple d’Objectif Intermédiaire est le succès d’un essai clinique d’un vaccin contre la maladie. C’est bien ambitieux et mesurable, et y arriver dépendra de la réalisation de plusieurs activités différentes mesurables, qui est vu comme une étape nécessaire vers l’accomplissement de l’Objectif Stratégique.
+	* Des exemples d’Objectifs Opérationnels Immédiats pourraient inclure des activités telles qu’isoler les symptômes, évaluer une thérapie, séquencer l’ADN du virus ou de la bactérie, et ainsi de suite.
+
+L’Objectif Stratégique est généralement concentré sur l’aboutissement d’un résultat grandement souhaitable mais irréalisable pour un groupe de personne spécifique qui se manifeste en améliorations en termes de bonheur, de sécurité ou de bien-être pour ceux qui reçoivent le produit ou le service. En EBM, on appelle ça la Valeur Non Réalisée, soit l’écart de satisfaction entre l’objectif désiré du bénéficiaire et son expérience du moment. La Valeur Non Réalisée est décrite ci-après dans la partie sur les Zones de Valeur Clés.
+
+Comprendre ce qui a de la valeur
+
+Les organisations mesurent plein de choses différentes. En général, les métriques tombent dans trois catégories :
+* Les activités. Ce sont les choses que les gens font dans les organisations, comme travailler, aller à des réunions, avoir des discussions, écrire du code, créer des rapports, assister à des conférences, etc.
+* Les réalisations. Ce sont les choses que l’organisation produit, comme des sorties de produits (incluant des fonctionnalités), des rapports, des compte-rendus d’anomalies, des revues de produit, etc.
+* Les résultats. Ce sont les bénéfices qu’un client ou qu’un utilisateur ressent. Ils représentent une capacité nouvelle ou améliorée que le client ou l’utilisateur n’était pas à même de faire avant. Des exemples pourraient être de pouvoir se rendre à une destination plus rapidement qu’avant, de pouvoir gagner ou économiser plus d’argent qu’avant. Les résultats peuvent aussi être négatifs, comme lorsque la valeur qu’un client ou un utilisateur ressent décline par rapport à son expérience précédente, par exemple lorsqu’un service utilisé auparavant n’est plus disponible.
+
+Le problème auxquels les organisations font face et qui se manifeste souvent ce qu’elles mesurent, est que mesurer les activités et les réalisations est facile, alors que mesurer les résultats est difficile. Les organisations peuvent rassembler beaucoup de données à partir d’informations incomplètes sur leur capacité à livrer de la valeur. Pourtant, livrer des résultats de valeur à leurs clients est essentiel si les organisations veulent atteindre leurs objectifs. Par exemple, travailler plus d’heures (activités) et livrer plus de fonctionnalités (réalisations) ne mène pas nécessairement à une expérience client améliorée (résultats).
+
+L’EBM se concentre sur quatre Zones de Valeur Clés
+
+En plus d’utiliser des hypothèses et des expérimentations pour avancer vers des objectifs, l’EBM fournit un ensemble de perspectives sur la valeur et sur la capacité de l’organisation à livrer cette valeur. Ces perspectives sont appelées les Zones de Valeurs Clés (ZVCs). Ces zones examinent les objectifs de l’organisation (Valeur Non Réalisée), l’état actuel de l’organisation par rapport à ses objectifs (Valeur Courante), la réactivité de l’organisation dans la livraison de valeur (Délai de Commercialisation), et l’efficacité de l’organisation à livrer de la valeur (Aptitude à Innover). Se concentrer sur ces quatre dimensions permet aux organisations de mieux comprendre où elles se trouvent présentement et où elles ont besoin d’aller (voir Schéma n°2).
+
+Schéma n°2 : l’EBM se concentre sur quatre Zones de Valeur Clés (ZVCs).
+
+Chaque ZVC se concentre sur un aspect différent de la valeur soit sur la capacité de l’organisation à livrer de la valeur. Livre de la valeur métier (Valeur Courante) est important, mais les organisations doivent aussi montrer qu’elles peuvent aussi répondre au changement (Délai de Commercialisation) tout en continuant à innover dans le temps (Aptitude à Innover). Et elles doivent aussi continuer à faire des progrès vers leurs objectifs à long terme (Valeur Non Réalisée) ou elles risquent de succomber à la stagnation et à la complaisance.
+
+Des exemples de Métriques de Valeur Clés (MVCs) pour chaque ZVC sont décrites dans l’appendice.
+
