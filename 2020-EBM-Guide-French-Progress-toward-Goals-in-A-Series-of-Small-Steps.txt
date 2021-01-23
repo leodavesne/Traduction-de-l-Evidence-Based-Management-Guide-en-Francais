@@ -1,0 +1,5 @@
+# Progresser vers les objectifs en une série de petits pas
+
+Le premier pas sur le chemin vers un Objectif Stratégique est de comprendre votre État Courant. Si votre but est de réaliser un Objectif Stratégique lié à la Valeur Non Réalisée (VNR), comme c'est généralement le cas, alors mesurer la Valeur Courante (VC) que votre produit ou service fournit est là où vous devriez commmencer (bien entendu, si votre produit ou service est nouveau alors sa VC sera 0). Pour comprendre là où vous devez vous améliorer, vous pourriez aussi avoir besoin de comprendre votre efficacité (A2I), et votre réactivité (T2M).
+
+La Boucle d'Expérimentation (présenté dans le Schéma n°1) aide les organisations à se déplacer de leur État Courant à leur Prochain Objectif Cible, et finalement leur Objectif Stratégique, en prenant des petits pas mesurés, appelés expérimentations, utilisant des hypothèses explicites. Cette boucle consiste à :
